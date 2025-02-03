@@ -33,22 +33,22 @@ My name is Raphael CATENACCI, and I am a second-year student at ENSAE Paris. I b
 
 These tools and languages allow me to tackle a wide range of projects and deliver robust solutions. From data analysis and machine learning to full-stack web development and algorithmic trading, I am equipped with the skills needed to excel in various fields.
 
-<!--## Projects 💡
+## Projects 💡
 
 Voici quelques projets notables de mon dépôt GitHub :
 
-*Python Games 🎮* - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
+#*Algorithmic Trading and Machine Learning 📈* - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
 
-#*Algorithmic Trading 📈* - Mise en œuvre de divers algorithmes mathématiques pour le trading sur les marchés financiers. Inclut le backtesting, l'analyse de données et le développement de stratégies.
+#*real estate price prediction* - Entrainement de modèles de machines learning sur des bases de données publiques pour réaliser une estimation du prix au mètre carré d'un bien immobilier en fonctions de certaines caractéristiques.
 
-#*Full Stack Websites 🌐* - Création de sites web dynamiques et réactifs utilisant une combinaison de HTML, CSS, JavaScript et de frameworks comme React et Vue.
+#*Data Analysis And NLP 📊* - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision. 
 
-#*Data Analysis and Machine Learning 📊* - Projets axés sur l'analyse et l'extraction d'insights à partir de données, en appliquant des techniques de machine learning pour la modélisation prédictive et la prise de décision. -->
-
+#*Python Games 🎮* - Collection de jeux interactifs construits en Python, mettant en avant mes compétences en programmation et ma créativité.
+-->
 ## Contact Information 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elouan-bahri-211121291/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elouanbahripro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-catenacci-0a7024293/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raph49c@gmail.com)
 
 Feel free to contact me for any collaboration or job opportunity. I am actively looking for an exciting internship from November 2024 to April 2025, and I am eager to bring my analytical insights and strategic solutions to succeed in the financial sector.
 
