@@ -1,10 +1,10 @@
 <div align="center">
 
-#  < Elouan BAHRI/>
+#  < CATENACCI Raphael/>
 
 ## 🇫🇷 About Me 
 
-My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring a high level of energy, strong determination, and a quick learning ability to everything I do. I am deeply passionate about quantitative finance, computer science and eager to explore opportunities that will expand my knowledge and experience in this field.
+My name is Raphael CATENACCI, and I am a second-year student at ENSAE Paris. I bring a high level of energy, strong determination, and a quick learning ability to everything I do. I am deeply passionate about quantitative finance, computer science, Data Science and eager to explore opportunities that will expand my knowledge and experience in this field.
 
 ##  🛠️ Skills 🛠️
 
@@ -12,8 +12,8 @@ My name is Elouan Bahri, and I am a second-year student at ENSAE Paris. I bring 
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="SAS">
 </div>
 
 ### Machine Learning:
