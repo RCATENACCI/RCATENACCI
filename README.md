@@ -56,6 +56,9 @@
 
 - **[Algorithmic Trading & Machine Learning 📈](#)**  
   Development of machine learning algorithms for financial markets, including backtesting and strategy optimization.
+  
+- **[Django_API](#)**
+  Development of an API with Django in order to manage a trading Database. 
 
 - **[Real Estate Price Prediction 🏡](#)**  
   Training ML models to estimate real estate prices based on public datasets.
